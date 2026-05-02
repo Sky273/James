@@ -17,3 +17,9 @@ This repository hosts the public artifacts for the paper:
 The paper argues that for long-horizon, tool-using, budget-constrained agent workflows, the relevant unit of evaluation is often not the model alone but the workflow-conditioned system. It proposes a workflow-centered framework with five dimensions: task quality, cost efficiency, recoverability, auditability, and robustness.
 
 The included pilot is intentionally small and should be read as a feasibility illustration rather than decisive empirical support.
+
+
+## Additional paper
+
+- `paper/unit-of-attribution-is-no-longer-the-model.md` — second paper on attribution errors in agent systems
+- `paper/unit-of-attribution-is-no-longer-the-model.pdf` — public PDF artifact
