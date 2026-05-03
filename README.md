@@ -23,3 +23,6 @@ The included pilot is intentionally small and should be read as a feasibility il
 
 - `paper/unit-of-attribution-is-no-longer-the-model.md` — second paper on attribution errors in agent systems
 - `paper/unit-of-attribution-is-no-longer-the-model.pdf` — public PDF artifact
+
+- `paper/unit-of-control-is-no-longer-the-model.md` — third paper on control boundaries in agent systems
+- `paper/unit-of-control-is-no-longer-the-model.pdf` — public PDF artifact
